@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/EcnAlQcGnZq9y.webp"  />
+<img align="left" height="150" src="https://i.giphy.com/EcnAlQcGnZq9y.webp"  />
 
 ###
 

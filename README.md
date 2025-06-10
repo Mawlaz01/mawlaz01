@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mawla 
+# 👋 Hi there! I'm Mawla         
 ### 🧒 A kid from Sampang — and yes... **I am KIRA** ⚡️
 
 <div align="center">
